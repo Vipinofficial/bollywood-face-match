@@ -166,7 +166,7 @@ st.markdown("---")
 
 st.sidebar.header("About")
 st.sidebar.info("Recognize Bollywood celebrities with AI.\n\n**Made by Vipin Kumar Soni**")
-st.sidebar.markdown("[LinkedIn](https://www.linkedin.com/in/your-link) | [GitHub](https://github.com/your-username)")
+st.sidebar.markdown("[LinkedIn](https://www.linkedin.com/in/vipinkumarsoniofficial) | [GitHub](https://github.com/vipinofficial)")
 
 uploaded_file = st.file_uploader("Upload a face image", type=["jpg", "jpeg", "png"])
 
