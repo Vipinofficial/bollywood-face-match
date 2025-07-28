@@ -1,4 +1,4 @@
-[# Bollywood Celebrity Face Recognition 🎬](https://bollywoo-face-match.streamlit.app/)
+# [Bollywood Celebrity Face Recognition 🎬](https://bollywoo-face-match.streamlit.app/)
 
 A **Streamlit web app** that recognizes Bollywood celebrities from uploaded face images.  
 Uses **PyTorch deep learning models** for:
